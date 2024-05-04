@@ -6,8 +6,6 @@
 - 📫 How to reach me :<br>
 <a href="https://t.me/Norouzi_Gorji" target="_blank">Telegram</a>
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 norouzigorji/norouzigorji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
